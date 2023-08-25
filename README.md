@@ -20,6 +20,50 @@
 -  I’m a passionate Python & AI & Fullstack developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -  I 've worked for serveral companies , agile scrum teams as a lead engineer .
 
+
+🏆Area of Expertise🏆:
+
+➡️Artificial Intelligence Development:
+-LLM {(Large language model) ChatGPT integration}, Vicuna, LLaMA, and many large language models.
+ -NLP: LangChain, OpenAI(GPT-3/4, Embeddings, ChatGPT), Transformers
+-Languages: Python, React etc
+-ML/DL tools: TensorFlow, Keras, PyTorch, Scikit-Learn -  
+-Database: MySQL, PostgreSQL, MongoDB, AWS
+
+➡️Web Application Development:
+- Fullstack Development 
+- CMS Development 
+- Data Scraping and web harvesting
+- Graphics Designing
+- Theme Customization
+- Shopping Cart / Online Ordering System / Online Payments
+- Event Booking System
+- Blog / News Management
+- Social Media Integration — Facebook, Twitter, YouTube, Google+, etc.
+- RESTFul API development
+- Multi-language 
+
+➡️Mobile Application:
+- Custom iOS and Android apps development
+- UI/UX design
+- notification and geofencing
+- Payment Gateway Integration
+- Google Map integration
+- Localization of Mobile apps
+
+➡️Our Animation Skills:
+- Video Editing 
+- 2D and 3D Core Animation 
+- Mobile Game 3D Animation 
+- Intro and Explainer video creation
+
+➡️Digital Marketing:
+- SEO
+- SMO/SMM
+- SEM
+- Google Adwords & PPC
+- ASO
+- ORM
 ---
 
 <h2 align="center">Tools and Technologies 🛠</h2>
